@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="White">#ffff</color>
+    <color name="colorPrimary">#5308af</color>
+    <color name="colorPrimaryDark">#00313c</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorToolbar">#f0f404</color>
+    <color name="colorAppbar">#37474f</color>
+    <color name="colorButton13">#05f4b8</color>
+    <color name="colorButton14">#0ccef9</color>
+    <color name="colorButton15">#ba500688</color>
+    <color name="colorButton16">#8815ed</color>
+
+</resources>

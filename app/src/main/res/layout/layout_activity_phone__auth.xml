@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_margin="30dp"
+        android:layout_marginTop="30dp"
+        android:layout_weight="1"
+        android:gravity="center"
+        android:orientation="vertical">
+
+        <EditText
+            android:id="@+id/field_phone_number"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Phone Number"
+            android:inputType="phone" />
+
+        <Button
+            android:id="@+id/button_start_verification"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/buttonshape1"
+            android:backgroundTint="@color/colorButton15"
+            android:text="Start"
+            android:textColor="@color/common_google_signin_btn_text_dark_pressed" />
+    </LinearLayout>
+
+
+    <Button
+        android:id="@+id/button_resend"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="30dp"
+        android:background="@drawable/buttonshape1"
+        android:backgroundTint="@color/colorPrimary"
+        android:text="Resend"
+        android:textColor="@color/common_google_signin_btn_text_dark_default" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_margin="30dp"
+        android:layout_weight="1"
+        android:gravity="center"
+        android:orientation="vertical">
+
+        <EditText
+            android:id="@+id/field_verification_code"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Verification Code"
+            android:inputType="number" />
+
+        <Button
+            android:id="@+id/button_verify_phone"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/buttonshape1"
+            android:backgroundTint="@android:color/holo_blue_dark"
+            android:text="verify"
+            android:textColor="@color/common_google_signin_btn_text_dark_pressed" />
+    </LinearLayout>
+</LinearLayout>

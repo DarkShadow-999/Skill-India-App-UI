@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="enroll_string">
+        Candidates need to give a missed call to this toll free number 1800 102 6000, following which they shall receive an automated call back connecting them to an IVR. The potential candidate will, at this stage, need to input his/her details into the syatem. These details will be recorded, and screened. Candidates eligible to enroll for the training programmes will be provided dtails of the nearest training centre and will be asked to report on the training dates
+    </string>
+</resources>

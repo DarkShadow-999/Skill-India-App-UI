@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "72924657464",
+    "firebase_url": "https://skill-india-app-99.firebaseio.com",
+    "project_id": "skill-india-app-99",
+    "storage_bucket": "skill-india-app-99.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:72924657464:android:f8ae46bb40cce920",
+        "android_client_info": {
+          "package_name": "com.example.shrey.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "72924657464-gtbgoilb3k4kq6an2ck0e6mlk3m63r2p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.shrey.myapplication",
+            "certificate_hash": "2c8d1a2c664b1c708c10818c29626282d19e0064"
+          }
+        },
+        {
+          "client_id": "72924657464-fbphqt1j23jm90ki1ptl33ent9c8o7mn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQCI5KmaIZdaiI8WFfnnTE2Sk3VCG4imA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "72924657464-fbphqt1j23jm90ki1ptl33ent9c8o7mn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
